@@ -32,7 +32,7 @@ class  App extends Component {
   return (
     <div className="app container">
        <div className="jumbotrom">
-        <p className="lead text-center">Elizabeth Valdez APP</p>
+        <p className="lead text-center">Elizabeth Valdez APP 1Convocatoria</p>
           <Buscador
           datosBusqueda={this.datosBusqueda}
           />
